@@ -197,8 +197,7 @@ Several symptom-related variables demonstrated moderate positive correlations, i
 
 Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/lung-cancer-survey-analysis.git
+
 
 
 Install Required Libraries
@@ -258,7 +257,6 @@ I enjoy transforming raw data into meaningful insights through analytics, visual
 * Machine Learning
 * Data Storytelling
 
-📫 Email: [ankitsharmaaa893@gmail.com](mailto:ankitsharmaaa893@gmail.com)
+📫 Email: [ankitsharmaaa893@gmail.com]
 🔗 LinkedIn: https://www.linkedin.com/in/ankitsharma893/
-🌐 Portfolio: https://linktr.ee/ankitsharma893
 ⭐ If you found this project helpful, please consider starring the repository.
